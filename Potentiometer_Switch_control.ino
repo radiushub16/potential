@@ -7,8 +7,8 @@
   DroneBot Workshop 2019
   https://dronebotworkshop.com
 */
- 
-// Defin pins
+
+// Defin pins 
  
 int reverseSwitch = 2;  // Push button for reverse
 int driverPUL = 7;    // PUL- pin
